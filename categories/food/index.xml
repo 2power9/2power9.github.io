@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://2power9.github.io/</link>
-    <description>Recent content on </description>
+    <title>food on </title>
+    <link>https://2power9.github.io/categories/food/</link>
+    <description>Recent content in food on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 13 May 2022 09:14:45 +0700</lastBuildDate><atom:link href="https://2power9.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 May 2022 09:14:45 +0700</lastBuildDate><atom:link href="https://2power9.github.io/categories/food/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://2power9.github.io/posts/my-first-post/</link>
