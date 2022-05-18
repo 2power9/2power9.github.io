@@ -130,7 +130,18 @@
 <h1 id="solutions">Solutions</h1>
 <h2 id="version-10">Version 1.0</h2>
 <p>In this version, I mainly focus on how to release a system that is simple and can work well in a small scope.</p>
-<!-- raw HTML omitted -->
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><img src="https://i.imgur.com/qoL3ltW.png" alt=""></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Minimum viable product</td>
+</tr>
+</tbody>
+</table>
 <h3 id="explain">Explain</h3>
 <ul>
 <li><code>Web server</code> : work as a <a href="https://en.wikipedia.org/wiki/Reverse_proxy">reverse proxy</a></li>
@@ -139,7 +150,18 @@
 </ul>
 <h2 id="version-20">Version 2.0</h2>
 <p>Later, I realize that the need for reading is more than the need for writing. Therefore, if every request points to the database, it will slow down query performance.</p>
-<!-- raw HTML omitted -->
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><img src="https://i.imgur.com/fFWXrK1.png" alt=""></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Version 2.0</td>
+</tr>
+</tbody>
+</table>
 <h3 id="explain-1">Explain</h3>
 <p>In this design, I split API into <strong>2 roles</strong>:</p>
 <ul>
@@ -149,7 +171,18 @@
 <p>To optimize database, I also divide into  <strong>2 roles</strong> like <code>API</code>. In this diagram, <code>Write Database</code> is <em><strong>master</strong></em> and <code>Read Database</code> is <em><strong>slave</strong></em>.</p>
 <h2 id="version-30">Version 3.0</h2>
 <p>In <code>version 2.0</code>, this design can cause bottlenecks in <code>Web Server</code>, so I try to upgrade to a new version.</p>
-<!-- raw HTML omitted -->
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><img src="https://i.imgur.com/tENQfzZ.png" alt=""></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Version 3.0</td>
+</tr>
+</tbody>
+</table>
 <h3 id="explain-2">Explain</h3>
 <ul>
 <li><code>Load Balancer</code> : divide tasks for resources and process more efficiently.</li>
