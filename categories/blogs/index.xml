@@ -6,7 +6,18 @@
     <description>Recent content in blogs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 13 May 2022 09:14:45 +0700</lastBuildDate><atom:link href="https://2power9.github.io/categories/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 May 2022 00:06:03 +0700</lastBuildDate><atom:link href="https://2power9.github.io/categories/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sao Sáng Nước Nam</title>
+      <link>https://2power9.github.io/sao-s%C3%A1ng-n%C6%B0%E1%BB%9Bc-nam/</link>
+      <pubDate>Sat, 21 May 2022 00:06:03 +0700</pubDate>
+      
+      <guid>https://2power9.github.io/sao-s%C3%A1ng-n%C6%B0%E1%BB%9Bc-nam/</guid>
+      <description>Sinh tố k em?
+ Đó là câu đầu tiên chị nhắn mình. Mình với chị biết nhau qua một cái Hackathon nọ (dành cho nữ). Đó là Hackathon đầu tiên mà mình tham gia, và nhóm chị là quán quân của cuộc thi đó.
+Thật ra không hiểu sao dù không quen nhưng chị rất thân thiện với mình, sau 1 đêm code đau khổ thì sáng mình bắt gặp hình ảnh team chị đây nhàn hạ bên chiếc máy quạt tự mang cùng rất nhiều phụ kiện khác.</description>
+    </item>
+    
     <item>
       <title>System Design for Blog Website</title>
       <link>https://2power9.github.io/system-design-for-blog-website/</link>
